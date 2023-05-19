@@ -1,4 +1,4 @@
-# yutilss
+# yutilss 数据库设计文档自动生成
 
 `java -jar MainClass.jar prop.txt`  即可生成
 - 1. 导出标识符
