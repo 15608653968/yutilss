@@ -1,0 +1,6 @@
+database=cereshop
+driver=com.mysql.cj.jdbc.Driver
+url=jdbc:mysql://localhost:3306/test?serverTimezone=GMT%2B8
+userName=root
+passWord=123456
+reportPath=E:\\Users\\Administrator\\Desktop\\doc\\
